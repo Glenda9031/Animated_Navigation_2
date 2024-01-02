@@ -73,7 +73,7 @@ nav ul a {
     border: 0;
     cursor: pointer;
     padding: 0;
-    cursor: pointer;
+    position: relative;
     width: 1.875rem;
     height: 1.875rem;
 }
